@@ -1,13 +1,13 @@
 # 🙋‍ 2022.1 - Módulo Game - Turma 2 - BTG Pactual
 
 ## 🔍 O problema:
- O assunto de Educação Financeira, apesar de importante, é pouco disseminado no Brasil em meio aos mais jovens.
+O assunto de educação financeira, apesar de importante, é pouco disseminado no Brasil em meio aos mais jovens.
  
 ## 🎯 O objetivo:
-Criar uma gamificação sobre educação financeira para facilitar e aumentar o engajamento de jovens com este tópico.
+Criar um jogo sobre educação financeira para facilitar e aumentar o engajamento de jovens acerca desse tópico.
 
 ## 🧩 O público-alvo:
-Jovens de 16 a 21 anos que estão passando por períodos de mudança em relação à saúde financeira, muitas vezes mudando de cidade ou arcando com custos da vida adulta.
+Jovens de 16 a 21 anos que estão passando por períodos de mudança em relação à saúde financeira, muitas vezes mudando de cidade e/ou arcando com custos da vida adulta.
 
 ## 🎮 Os jogos:
 
